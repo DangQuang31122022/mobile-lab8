@@ -1,0 +1,102 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "name": "Nike shoes",
+      "discount": "50%",
+      "image": "s1.png",
+      "details": {
+        "productName": "Nike shoes",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Adidas shoes",
+      "discount": "80%",
+      "image": "s2.png",
+      "details": {
+        "productName": "adidas Women's Stan Smith Low Top Fashion Sneakers",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Nike Bicycle",
+      "discount": "30%",
+      "image": "s3.png",
+      "details": {
+        "productName": "Nike Bicycle",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Yonex shoes",
+      "discount": "50%",
+      "image": "s4.png",
+      "details": {
+        "productName": "Yonex shoes",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Victor shoes",
+      "discount": "50%",
+      "image": "s5.png",
+      "details": {
+        "productName": "Victor shoes",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Lining shoes",
+      "discount": "50%",
+      "image": "s6.png",
+      "details": {
+        "productName": "Lining shoes",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Binh Minh shoes",
+      "discount": "90%",
+      "image": "s7.png",
+      "details": {
+        "productName": "Binh Minh shoes",
+        "sole": "Rubber",
+        "closure": "Lace-Up",
+        "width": "Medium",
+        "features": ["Lace Up", "Grip Rubber Sole", "Padded Insole"],
+        "price": "100$"
+      }
+    }
+  ]
+}
